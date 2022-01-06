@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950944912838",
+    "project_id": "litestory-334a7",
+    "storage_bucket": "litestory-334a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950944912838:android:299ad5525fcba4508f0ec7",
+        "android_client_info": {
+          "package_name": "com.example.litestory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950944912838-206g58chtlk1udj9j0khpdht6afphhn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76XK1lvg0krJFTlqKInTjHHzwf3kXyls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950944912838-206g58chtlk1udj9j0khpdht6afphhn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
